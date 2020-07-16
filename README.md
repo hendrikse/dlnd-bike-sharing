@@ -1,6 +1,7 @@
 # Predicting Bike-Sharing Data
 
 ![](https://image.freepik.com/free-vector/world-car-free-day-event_23-2148602544.jpg)
+
 In this real project, I built a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, it gave me a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before moving on to higher-level tools such as PyTorch. 
 
 ## Overview of the different Steps
@@ -18,4 +19,6 @@ To get the final model the following steps are necessary:
 
 ## Credits
 
-Credits go to Udacity as they provided the base structure and implementation steps. The initial repository can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing) 
+* Credits go to Udacity as they provided the base structure and implementation steps. The initial repository can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing) 
+
+* Image from https://www.freepik.com/free-vector/world-car-free-day-event_9104116.htm
